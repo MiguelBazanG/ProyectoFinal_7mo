@@ -1,0 +1,61 @@
+#header{
+    background-color: black !important;
+}
+
+#footer{
+    background-color: #0D1521;
+}
+
+#main .carousel-item img{
+    max-height: 70vh;
+    object-fit: cover;
+    opacity: 0.7;
+}
+
+#carrusel .overlay{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+
+body{
+    background-color: white;
+}
+
+#ponentes p{
+    color: black;
+}
+
+#lugarFecha p{
+    color: black;
+}
+
+#lugarFecha img{
+    max-width: 100%;
+}
+
+#lugarFecha{
+    background-color: #DDE9FB;
+}
+
+#calendario{
+    background-color: #D3E1F7;
+}
+#calendario table{
+    border-color: black;
+}
+
+#modalContent{
+    background-color: #aabbd6;
+}
+footer a, p{
+    color: lightgray;
+}
+
+footer a:hover{
+    color: gray;
+}
