@@ -40,7 +40,7 @@
 
         //OPCION 2
         //enviar un mensaje de EXITO a traves de SESIONES
-        echo '<p class="alert alert-success agileits" role="alert">Captura realizada correctamente!p>';
+      echo '<p class="alert alert-success agileits" role="alert">Captura realizada correctamente!p>';
 
            
     }
